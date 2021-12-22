@@ -1,5 +1,5 @@
 # Visualizacion de Datos (Pokemones)
-Realizamos reportes graficos utilizando un archivo pokemon.json qu contenia toda la información sobre los pokemones de la primera generación.
+Realizamos reportes graficos utilizando un archivo pokemon.json que contenia toda la información sobre los pokemones de la primera generación.
 # Hicimos 4 graficos:
 1) Grafico de barras
 2) Scatterplot
