@@ -1,11 +1,11 @@
 # Visualizacion de Datos (Pokemones)
-Realizamos reportes graficos utilizando un archivo pokemon.json que contenia toda la información sobre los pokemones de la primera generación.
+Realizamos reportes graficos utilizando un archivo 'pokemon.json' que contenia toda la información sobre los pokemones de la primera generación.
 # Hicimos 4 graficos:
-1) Grafico de barras
-2) Scatterplot
-3) Mapa de coordenadas con imagen
-4) Gráfico de marcadores
-# Integrantes (lab.01):
+1) 'Grafico de barras'
+2) 'Scatterplot'
+3) 'Mapa de coordenadas con imagen'
+4) 'Gráfico de marcadores'
+# Integrantes '(lab.01)':
 a) Fernandez Vasquez, Jian Pierre (202110119) 
 
 b) Quezada Amour, Héctor Valentín (202120750)
@@ -15,9 +15,9 @@ c) Quispe Cordova, Adrian Renato (202110287)
 d) Quintana Lopez, Thamara Shania (202110792)
 
 # Instrucciones para ejecutar el proyecto:
-- Importar librería matplotlib.pyplot
-- Importar imagen del mapa de Kanto (Kanto.png) y el json con la información de los pokemones (pokemon.json)
-- Usar código auxiliar aux_functions.py
+- Importar librería 'matplotlib.pyplot'
+- Importar imagen del mapa de Kanto '(Kanto.png)' y el 'json' con la información de los pokemones '(pokemon.json)'
+- Usar código auxiliar 'aux_functions.py'
 # Link del github:
 https://github.com/jianpierrefervas/Visualizacion-de-datos.git
 # Visualizacion-de-datos:
