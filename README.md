@@ -9,10 +9,12 @@ Hicimos 4 graficos:
 a) Fernandez Vasquez, Jian Pierre (202110119) 
 b) Quezada Amour, Héctor Valentín (202120750)
 c) Quispe Cordova, Adrian Renato (
+d) Quintana Lopez, Thamara Shania (202110792)
 # Instrucciones para ejecutar el proyecto
 - Importar librería matplotlib.pyplot
 - Importar imagen del mapa de Kanto (Kanto.png) y el json con la información de los pokemones (pokemon.json)
 - Usar código auxiliar aux_functions.py
+https://github.com/jianpierrefervas/Visualizacion-de-datos.git
 # Visualizacion-de-datos
 ![image](https://user-images.githubusercontent.com/83974210/147039088-ff67342f-d6e1-4f43-91e1-d217f0700456.png)
 ![image](https://user-images.githubusercontent.com/83974210/147039116-68a4468d-70ea-4134-a765-3baa053e1be5.png)
