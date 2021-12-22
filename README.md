@@ -8,7 +8,7 @@ Hicimos 4 graficos:
 # Integrantes (lab.01):
 a) Fernandez Vasquez, Jian Pierre (202110119) 
 b) Quezada Amour, Héctor Valentín (202120750)
-c) Quispe Cordova, Adrian Renato (
+c) Quispe Cordova, Adrian Renato (202110287)
 d) Quintana Lopez, Thamara Shania (202110792)
 # Instrucciones para ejecutar el proyecto
 - Importar librería matplotlib.pyplot
